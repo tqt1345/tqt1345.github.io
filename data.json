@@ -1,0 +1,29 @@
+[
+  {
+    "id": "GENERATED_UUID_1",
+    "name": "Rain",
+    "category": "Nature",
+    "description": "Gentle rain sounds for relaxation and focus.",
+    "duration": 180,
+    "latitude": -13.1631,
+    "longitude": -72.5450
+  },
+  {
+    "id": "GENERATED_UUID_2",
+    "name": "Ocean Waves",
+    "category": "Nature",
+    "description": "Calming ocean waves crashing on the shore.",
+    "duration": 240,
+    "latitude": -13.1631,
+    "longitude": -72.5450
+  },
+  {
+    "id": "GENERATED_UUID_5",
+    "name": "Forest Ambience",
+    "category": "Nature",
+    "description": "Immersive sounds of a tranquil forest environment.",
+    "duration": 200,
+    "latitude": -13.1631,
+    "longitude": -72.5450
+  }
+]
